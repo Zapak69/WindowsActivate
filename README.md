@@ -1,0 +1,2 @@
+# WindowsActivate
+Windows activation script
